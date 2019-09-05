@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/github.com/knative/eventing/cmd/in_memory/channel_dispatcher@sha256:21cadd1185756767cb3cda7a03b1ca3e7df806c21d9d5d1a70d029c9e5d64837
+FROM gcr.io/knative-releases/github.com/knative/eventing/cmd/in_memory/dispatcher@sha256:75101533d5467d13700f6c1a5fd0daac7af31dc7ca5aa44abe14ffedf2f71c7e
 MAINTAINER coder
